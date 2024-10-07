@@ -1,0 +1,1 @@
+主页面从RetrievalAPP打开，测试图片在test文件里
